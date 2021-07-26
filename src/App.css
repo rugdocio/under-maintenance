@@ -1,7 +1,7 @@
 @import 'antd/dist/antd.css';
 body, .layout {
   text-align: center;
-  background-color: rgba(0,0,0,.85) !important;
+  background-color: #0b0b0b !important;
 }
 .App {
   text-align: center;
