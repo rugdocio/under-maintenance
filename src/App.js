@@ -1,9 +1,9 @@
 import "./App.css";
-import { Card, Space, Spin, Typography,Layout } from 'antd';
+import { Typography,Layout } from 'antd';
 import { SettingFilled } from '@ant-design/icons';
-const { Text, Title } = Typography;
+const { Title } = Typography;
 
-const { Header, Content, Footer } = Layout;
+const { Content } = Layout;
 function App() {
 
 
